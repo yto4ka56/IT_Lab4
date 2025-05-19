@@ -14,3 +14,4 @@ C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab4\IT_Lab4\obj\Debug\net8.0-w
 C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab4\IT_Lab4\obj\Debug\net8.0-windows\ref\IT_Lab4.dll
 C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab4\IT_Lab4\obj\Debug\net8.0-windows\IT_Lab4.Form1.resources
 C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab4\IT_Lab4\obj\Debug\net8.0-windows\IT_Lab4.csproj.GenerateResource.cache
+C:\Users\maxbe\OneDrive\Документы\IT\IT_Lab4\IT_Lab4\obj\Debug\net8.0-windows\IT_Lab4.sourcelink.json
